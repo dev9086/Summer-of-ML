@@ -51,4 +51,5 @@ We encourage you to contribute to the Summer of Machine Learning. Here are some 
 
 We are grateful to all the external material providers and websites that have helped us create this course. We would also like to thank our mentors for their guidance and support.
 
-[![SOM.png](https://i.postimg.cc/RC1CbQrm/SOM.png)](https://postimg.cc/yWdzDRYp)
+[![SOM.png](https://github.com/bsoc-bitbyte/Summer-of-ML/blob/main/som_logo.svg)](https://github.com/bsoc-bitbyte/Summer-of-ML/blob/main/som_logo.svg)
+
