@@ -7,7 +7,7 @@ This project predicts your **Competitive Programming Rating** using **pure Pytho
 
 ## 🔗 Try It Out
 
-👉 https://summer-of-ml.onrender.cs
+👉 https://summer-of-ml.onrender.com
 ## 🧠 What It Does
 
 - 🔮 Predicts future ratings for platforms like:
