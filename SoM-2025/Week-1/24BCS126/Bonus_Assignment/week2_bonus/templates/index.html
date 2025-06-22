@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rating Predictor</title>
+  <style>
+      body {
+      margin: 0;
+      height: 100vh;
+      display: flex;
+      justify-content: center;  
+      align-items: center;  
+      background-color: #f0f0f0;
+      font-family: Arial, sans-serif;
+    }
+    h2{
+      margin-right:40px;
+    }
+
+  </style>
+</head>
+<body>
+  
+  <form method="POST">
+    <h1>Codechef/Codeforces Rating Predictor </h1>
+    <label for="direction">I have:</label>
+    <select name="direction" id="direction">
+      <option name="cf_to_cc">Codechef Rating</option>
+      <option name="cc_to_cf">Codeforces Rating</option>
+    </select><br><br>
+
+    <label for="rating">Enter your rating:</label>
+    <input type="number" name="rating" id="rating" required><br><br>
+    
+    <input type="submit" value="Predict">
+  </form><br><br>
+     {% if result %}
+     <h2>{{result}}</h2>
+     <p><strong>Regression Equation: </strong> {{equation}}</p>
+     {% endif %}
+
+ 
+</body>
+</html>
