@@ -33,3 +33,5 @@ Used Denominator Method to calculate bias and weight.
 
 Features:
 - Powered by a **Linear Regression model**
+
+CP-Rating-Predictor(live link): https://github.com/AtharvPS13/CP-Rating_Predictor
