@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "New folder (2)",
+			"path": "../../../../../../../../../New folder/New folder (2)"
+		},
+		{
+			"name": "Summer-of-ML",
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"ostream": "cpp"
+		}
+	}
+}
